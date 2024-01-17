@@ -38,3 +38,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 👷 Check out what I'm currently working on
+
+
+- [prathamdupare/blog](https://github.com/prathamdupare/blog) - My HUGO Website that I use for Blogs, and Redirects
+- [prathamdupare/links](https://github.com/prathamdupare/links) - Links to my Socials and website.
