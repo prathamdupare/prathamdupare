@@ -3,7 +3,7 @@
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-stats.fosspage.com/api?username=prathamdupare&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats-alpha-three-55.vercel.app/api?username=prathamdupare&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
