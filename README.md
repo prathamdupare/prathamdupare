@@ -4,6 +4,8 @@
 
 ![Pratham's GitHub stats](https://github-readme-stats-alpha-three-55.vercel.app/api?username=prathamdupare&show_icons=true&theme=tokyonight)
 
+![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=prathamdupare&repo=blog&cache_seconds=86400&theme=default)
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
