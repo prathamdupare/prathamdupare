@@ -2,7 +2,7 @@
 
 ### 📊 Stats
 
-![Pratham's GitHub stats](https://github-readme-stats-alpha-three-55.vercel.app/api?username=prathamdupare&show_icons=true&theme=gruvbox)
+![Pratham's GitHub stats](https://github-readme-stats-alpha-three-55.vercel.app/api?username=prathamdupare&show_icons=true&theme=tokyonight)
 
 ### 🧰 Languages and Tools
 
