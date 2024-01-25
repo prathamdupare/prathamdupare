@@ -4,7 +4,7 @@
 
 ![Pratham's GitHub stats](https://github-readme-stats-alpha-three-55.vercel.app/api?username=prathamdupare&show_icons=true&theme=tokyonight)
 
-![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=prathamdupare&repo=.dotfiles&cache_seconds=86400&theme=default)
+<!-- … --> ![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=prathamdupare&repo=.dotfiles&cache_seconds=86400&theme=default)
 
 ### 🧰 Languages and Tools
 
