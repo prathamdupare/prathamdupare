@@ -31,7 +31,11 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=prathamdupare&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=prathamdupare&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ### 👷 Check out what I'm currently working on
