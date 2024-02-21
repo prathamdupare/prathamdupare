@@ -31,6 +31,12 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
+
+
+
+![](https://github-readme-stats.vercel.app/api?username=prathamdupare&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=prathamdupare&theme=dark&hide_border=false)<br/>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=prathamdupare&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
