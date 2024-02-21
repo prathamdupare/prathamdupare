@@ -31,21 +31,12 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-
-
-
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=prathamdupare&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prathamdupare&theme=dark&hide_border=false)<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=prathamdupare&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=prathamdupare&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 ### 👷 Check out what I'm currently working on
-
 
 - [prathamdupare/blog](https://github.com/prathamdupare/blog) - My HUGO Website that I use for Blogs, and Redirects
 - [prathamdupare/links](https://github.com/prathamdupare/links) - Links to my Socials and website.
